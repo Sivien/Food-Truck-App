@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Rise and Roll",
+    "slug": "food-truck-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "food-truck-app",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#F59E0B" } },
+    "plugins": ["expo-router"]
+  }
+}
