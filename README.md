@@ -21,3 +21,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+![Screenshot_20260221_013339_Expo Go](https://github.com/user-attachments/assets/1f721ff4-e325-46d7-a764-01d6bc808077)
